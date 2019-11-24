@@ -27,6 +27,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jonohawkins
 github_username:  jonodhawkins
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      splash: false
+      splash-img: ""
+      splash-header: "welcome"
+      splash-text: ""
+
 # Build settings
 #theme: minima
 #plugins:
