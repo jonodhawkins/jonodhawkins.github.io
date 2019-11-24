@@ -30,11 +30,19 @@
     </div>
   </div>
   {% else %}
+  <div class="header">
     {% include navbar.html %}
-  {% endif %}
-  <div id="pagestart" class="uk-container">
-    {{ content }}
   </div>
-  {% include footer.html %}
+  {% endif %}
+  <div id="pagestart" class="content">
+    <div class="uk-container">
+      {{ content }}
+    </div>
+  </div>
+  <!-- End of Content -->
+  <div class="footer">
+    {% include footer.html %}
+  </div>
+  <!-- End of Footer -->
 </body>
 </html>
