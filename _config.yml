@@ -36,6 +36,15 @@ defaults:
       splash-img: ""
       splash-header: "welcome"
       splash-text: ""
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Jono Hawkins"
+      thumbnail: ""
+      
 
 # Build settings
 #theme: minima

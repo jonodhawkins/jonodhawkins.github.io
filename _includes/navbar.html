@@ -1,8 +1,26 @@
-<nav class="uk-navbar-container uk-navbar-transparent {% if page.splash %}uk-light{% else %}uk-dark{% endif %} uk-padding-large uk-padding-remove-vertical" uk-navbar>
+<nav class="uk-navbar-container uk-navbar-transparent {% if page.splash %}uk-light{% else %}uk-dark{% endif %} uk-padding uk-padding-large@m uk-padding-remove-vertical" uk-navbar>
   <div class="uk-navbar-left">
     <a class="uk-navbar-item uk-logo" href="#">jonohawkins</a>
   </div>
-  <div class="uk-navbar-right">
+  <div class="uk-navbar-right uk-hidden@s">
+    <div class="uk-navbar-left">
+      <div class="uk-navbar-right">
+        <ul class="uk-navbar-nav">
+          <li>
+            <a href="#">Menu</a>
+            <div class="uk-navbar-dropdown">
+                <ul class="uk-nav uk-navbar-dropdown-nav">
+                  {% for item in site.data.nav %}
+                  <li class="{% if page.url == item.link %}uk-active{% endif %}"><a href="{{ item.link }}">{{ item.name }}</a></li>
+                  {% endfor %}
+                </ul>
+            </div>
+          </li>
+        </ul>
+    </div>
+  </div>
+  </div>
+  <div class="uk-navbar-right uk-visible@s">
     <ul class="uk-navbar-nav">
       {% for item in site.data.nav %}
       <li class="{% if page.url == item.link %}uk-active{% endif %}"><a href="{{ item.link }}">{{ item.name }}</a></li>
