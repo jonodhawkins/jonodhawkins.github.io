@@ -1,0 +1,41 @@
+---
+layout: default
+title: Posts
+maxposts: 9
+---
+<h1>Recent Blog Posts</h1>
+<hr/>
+{% if paginator.posts.size > 0 %}
+{% include blog-nav.html %}
+{% endif %}
+<div uk-grid class="uk-padding uk-padding-remove-horizontal">
+{% for post in paginator.posts %}
+  {% if forloop.index > page.maxposts %}
+    {% break %}
+  {% endif %}
+  <div class="uk-width-1-2@s">
+    <div class="uk-card uk-card-default">
+      <div class="uk-media-top">
+        <div class="uk-height-medium uk-background-cover uk-background-center-center" data-src="{{ post.thumbnail }}" uk-img>
+        </div>
+      </div>
+      <div class="uk-card-header">
+        <h3 class="uk-card-title uk-margin-remove-bottom">{{ post.title }}</h3>
+        <p class="uk-text-meta uk-margin-remove-top">
+          Written by {{ post.author }} on {{ post.date | date_to_string }}
+        </p>
+      </div>
+      <div class="uk-card-body">
+        {{ post.excerpt }}
+      </div>
+      <a class="uk-button uk-button-default uk-width-expand"  href="{{ post.url }}">Read More</a>
+    </div>
+  </div>
+{% else %}
+  There are no blogs to display.
+{% endfor %}
+</div>
+{% if paginator.posts.size > 0 %}
+  {% include blog-nav.html %}
+  <div class="uk-margin-bottom"></div>
+{% endif %}

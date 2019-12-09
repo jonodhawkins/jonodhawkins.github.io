@@ -2,33 +2,29 @@
 layout: default
 title: Home
 splash: true
-splash-img: /img/rhonebw.jpg
+splash-img: /assets/img/rhonebw.jpg
 splash-text: glaciers, electronics,<br/>bikes and vertical things
 maxposts: 3
 ---
 <div class="uk-padding uk-padding-remove-horizontal uk-grid-divider" uk-grid>
 
-  <div class="uk-width-1-2@m">
-    <div class="uk-flex-middle" uk-grid>
-      <h1 class="uk-width-2-3 uk-width-1-1@m uk-flex-first">About Me</h1>
-      <img data-src="/img/profile.png" class="uk-width-1-3" alt="Image" uk-img>
-      <div class="uk-width-1-1 uk-width-2-3@m uk-flex-first@m">
-        <p>
-          I graduated from the University of Bristol in 2018 with a MEng in Electrical and Electronic Engineering. Throughout my time at Bristol, I began to look for opportunities to link my passion for the outdoors with Electronics, which has led me to be interested in electronic techniques for monitoring extreme environments.
-        </p>
-      </div>
-      <div class="uk-width-1-1">
-        <p>
-          I am interested in how glaciers can be effectively monitored or explored using electronics, whether this is generating large-swath profiles of basal melt rates or investigating englacial and subglacial hydrology and its relation to increasing melt and flow rates. At UCL, I am building on the existing ApRES platform to enable it to perform autonomously across large areas and at greater depths.
-        </p>
-        <p>
-          Hopefully there's something on here to take your interest, and please don't hesitate to get in touch should you have any questions.
-        </p>
-      </div>
-    </div>
+  <div class="uk-width-1-3@l">
+    <h1>About Me</h1>
+    <img data-src="/assets/img/profile.png" class="uk-align-right" width="96px" alt="Image" uk-img>
+    <p>
+      I graduated from the University of Bristol in 2018 with a MEng in Electrical and Electronic Engineering. Throughout my time at Bristol, I began to look for opportunities to link my passion for the outdoors with Electronics, which has led me to be interested in electronic techniques for monitoring extreme environments.
+
+    </p>
+    <p>
+      I am interested in how glaciers can be effectively monitored or explored using electronics, whether this is generating large-swath profiles of basal melt rates or investigating englacial and subglacial hydrology and its relation to increasing melt and flow rates. At UCL, I am building on the existing ApRES platform to enable it to perform autonomously across large areas and at greater depths.
+    </p>
+    <p>
+      Hopefully there's something on here to take your interest, and please don't hesitate to get in touch should you have any questions.
+    </p>
+    <a class="uk-button uk-button-default"  href="/about">Read More</a>
   </div>
 
-  <div class="uk-width-1-2@m">
+  <div class="uk-width-2-3@l">
     <h1>Blog Posts</h1>
     <p>
       Check out what I've been up to recently below, of find all of my posts <a href="/posts">here</a>.
@@ -37,22 +33,24 @@ maxposts: 3
       {% if forloop.index > page.maxposts %}
         {% break %}
       {% endif %}
-      <div class="uk-flex-middle" uk-grid>
+      <div class="uk-card uk-card-default uk-grid uk-grid-collapse uk-margin-bottom">
+        <div class="uk-card-media-left uk-cover-container uk-width-1-3">
+          <img data-src="{{ post.thumbnail }}" uk-img uk-cover/>
+          <canvas width="100" height="100"></canvas>
+        </div>
         <div class="uk-width-2-3">
-          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-          <p>
-            {{ post.excerpt }}
-          </p>
+          <div class="uk-card-header">
+            <h3 class="uk-card-title uk-margin-remove-bottom">{{ post.title }}</h3>
+            <p class="uk-text-meta uk-margin-remove-top">
+              Written by {{ post.author }} on {{ post.date | date_to_string }}
+            </p>
+          </div>
+          <a class="uk-margin-bottom uk-margin-top uk-margin-left uk-button uk-button-default"  href="{{ post.url }}">Read More</a>
         </div>
-        <div class="uk-width-1-3 uk-flex-first">
-          <img src="{{ post.thumbnail }}">
-        </div>
+      </div>
     {% else %}
-      There are no blogs to display.
+      There are no posts to display.
     {% endfor %}
-    <p>
-      Not what you're looking for? Find all of my posts <a href="/posts">here</a>.
-    </p>
       <!--
       <div class="uk-width-2-3">
         <h3>Rhone Glacier Fieldwork</h3>
@@ -61,7 +59,7 @@ maxposts: 3
         </p>
       </div>
       <div class="uk-width-1-3 uk-flex-first">
-        <img src="/img/rhonebw.jpg">
+        <img src="/assets/img/rhonebw.jpg">
       </div>
     </div>
     <div class="uk-flex-middle" uk-grid>
@@ -72,7 +70,7 @@ maxposts: 3
         </p>
       </div>
       <div class="uk-width-1-3 uk-flex-first">
-        <img src="/img/neistpoint.jpg">
+        <img src="/assets/img/neistpoint.jpg">
       </div>
     </div>
     <div class="uk-flex-middle" uk-grid>
@@ -83,7 +81,7 @@ maxposts: 3
         </p>
       </div>
       <div class="uk-width-1-3 uk-flex-first">
-        <img src="/img/nathanclimbing.jpg">
+        <img src="/assets/img/nathanclimbing.jpg">
       </div>
       -->
     </div>

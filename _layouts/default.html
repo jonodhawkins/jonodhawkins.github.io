@@ -6,17 +6,17 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="/css/uikit-core.min.css">
-  <link rel="stylesheet" type="text/css" href="/css/uikit.min.css">
-  <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/uikit-core.min.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/uikit.min.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
   <script src="https://code.jquery.com/jquery-3.4.1.slim.js"></script>
-  <script src="/js/uikit.min.js"></script>
-  <script src="/js/uikit-icons.min.js"></script>
+  <script src="/assets/js/uikit.min.js"></script>
+  <script src="/assets/js/uikit-icons.min.js"></script>
 </head>
 <body>
   {% if page.splash %}
-  <div class="uk-position-top">
-    {% include navbar.html %}
+  <div class="uk-position-top uk-padding uk-padding-remove-vertical">
+      {% include navbar.html %}
   </div>
   <div class="uk-light uk-background-cover uk-background-center-center uk-height-viewport uk-flex uk-flex-left" style="background-image: url('{{ page.splash-img }}')">
     <div class="uk-container">
@@ -31,7 +31,9 @@
   </div>
   {% else %}
   <div class="header">
-    {% include navbar.html %}
+    <div class="uk-container uk-margin-remove-adjacent">
+      {% include navbar.html %}
+    </div>
   </div>
   {% endif %}
   <div id="pagestart" class="content">

@@ -1,0 +1,6 @@
+<div class="uk-text-center">
+  <a class="uk-button uk-button-default" href="{{ paginator.previous_page_path }}"
+  {% if !paginator.previous_page %}disabled{% endif %}><span uk-icon="icon: arrow-left"> Previous</span></a>
+  <button class="uk-button uk-button-default" disabled>Page {{ paginator.page }} of {{ paginator.total_pages }}</button>
+  <a class="uk-button uk-button-default" href="{{ paginator.next_page_path }}" {% if !paginator.previous_page %}disabled{% endif %}><span uk-icon="icon: arrow-right"> Next</span></a>
+</div>
