@@ -4,3 +4,5 @@
   link: /about
 - name: posts
   link: /blog
+- name: photos
+  link: /photos
