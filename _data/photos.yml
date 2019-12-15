@@ -7,6 +7,9 @@
   title: Neist Point
   alt-text: Celebrating a long day of cycle touring at Neist Point.
 -
+  filename: /assets/img/old-man-storr.JPG
+  title: Old Man of Storr
+-
   filename: /assets/img/climber-on-gimmer.JPG
   alt-text: Unknown climber through the rock on Gimmer Crag.
 -
@@ -27,12 +30,29 @@
   title: Clouds on Rh&#244;ne Glacier
   alt-text: Clouds pouring over the Garstenhorner into the Rh&#244;ne Glacier.
 -
+  filename: /assets/img/ny-alesund.JPG
+  alt-text: Radio telescope just outside of Ny Alesund.
+-
+  filename: /assets/img/mitre-meltwater.jpg
+  title: Mitrelovenbreen Meltwater
+  alt-text: Supraglacial meltwater channel on Mitrelovenbreen.
+-
+  filename: /assets/img/ed-king.JPG
+  alt-text: Ed King walking along the foreshore of Kongsfjorden.
+-
   filename: /assets/img/nathanclimbing.jpg
   title: Engineer's Crack
   alt-text: Engineer's Crack, a stonkingly good E1 on the Buchaille.
 -
+  filename: /assets/img/buchaille.jpg
+  alt-text: Eerie spectre-esque shadows on the Buchaille from a low February sun.
+-
   filename: /assets/img/cmdbluesky.jpg
   alt-text: A stunning blue sky over a snow-free Carn Mor Dearg in... February?
+-
+  filename: /assets/img/duncan-glacier-blanc.JPG
+  title: Glacier Blanc Sunrise
+  alt-text: Duncan and Ash at sunrise on the Glacier Blanc.
 -
   filename: /assets/img/carneddlwellyn.jpg
   title: Mixed Seasons
@@ -47,3 +67,6 @@
 -
   filename: /assets/img/skiview1.jpg
   alt-text: Subtle pink Alpine hues in Les Deux Alpes.
+-
+  filename: /assets/img/ash-climbing-poldubh.JPG
+  alt-text: Ash reaching for the next piece on Poldubh Slabs.
