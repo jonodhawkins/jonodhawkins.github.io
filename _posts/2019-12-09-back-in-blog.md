@@ -7,7 +7,6 @@ It's back! After a hiatus-and-a-half and with a new look, I've finally gotten ar
 
 ![Kipling Groove on Gimmer Crag](/assets/img/2019-12-09/kipling.jpeg)
 
-It's been a busy couple of months since coming back from the Rh&#244;ne Glacier and deploying the HF ApRES, but the photo above is of me on Kipling Groove from an unexpectedly sunny mini-break to Langdale in September with Faye.
+It's been a busy couple of months since coming back from the Rh&#244;ne Glacier and deploying the HF ApRES, but there have been a couple of opportunities to get out onto the hill.  The photo above is of Kipling Groove on Gimmer Crag from a mini-break to Langdale in September.
 
-See you soon,  
 Jono
