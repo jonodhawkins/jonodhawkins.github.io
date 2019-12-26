@@ -3,7 +3,7 @@ layout: post
 title: Wild London at Christmas
 thumbnail: /assets/img/2019-12-26/thumbnail.jpg
 ---
-I doubt it would be possible to convince anyone - myself included - of the idea of a truly 'Wild London', however the pockets of green are something to hold onto in a city that is becoming increasingly grey and vertical.  Below are some moments from the last few weeks kayaking on the Regent's Canal, in Greenwich Park on Christmas Day and in my parent's suburban garden on the theme of a Wild London.
+I doubt it would be possible to convince anyone - myself included - of the idea of a truly 'Wild London', however the pockets of green are something to hold onto in a city that is becoming increasingly grey and vertical.  Below are some moments from the last few weeks taking out the kayak on the Regent's Canal, in Greenwich Park on Christmas Day and in my parent's suburban garden on the theme of a Wild London.
 
 <div class="uk-grid uk-child-width-1-2 uk-grid-small" uk-grid="masonry: true">
   <div>
