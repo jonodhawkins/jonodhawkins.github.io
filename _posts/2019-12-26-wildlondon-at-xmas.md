@@ -7,25 +7,25 @@ I doubt it would be possible to convince anyone - myself included - of the idea 
 
 <div class="uk-grid uk-child-width-1-2 uk-grid-small" uk-grid="masonry: true">
   <div>
-    <img data-src="/assets/img/2019-12-26/kayak-regents-canal.jpg" alt-text="Kayaking on Regents Canal" uk-img/>
+    <img data-src="/assets/img/2019-12-26/kayak-regents-canal.jpg" alt="Kayaking on Regents Canal" uk-img/>
   </div>
   <div>
-    <img data-src="/assets/img/2019-12-26/kayak-regents-canal-2.jpg" alt-text="Kayaking on Regents Canal" uk-img/>
+    <img data-src="/assets/img/2019-12-26/kayak-regents-canal-2.jpg" alt="Kayaking on Regents Canal" uk-img/>
   </div>
   <div>
-    <img data-src="/assets/img/2019-12-26/thumbnail-big.jpg" alt-text="Winter light through the branches in Greenwich Park" uk-img/>
+    <img data-src="/assets/img/2019-12-26/thumbnail-big.jpg" alt="Winter light through the branches in Greenwich Park" uk-img/>
   </div>
   <div>
-    <img data-src="/assets/img/2019-12-26/vanbrugh-castle.jpg" alt-text="Vanbrugh Castle" uk-img/>
+    <img data-src="/assets/img/2019-12-26/vanbrugh-castle.jpg" alt="Vanbrugh Castle" uk-img/>
   </div>
   <div>
-    <img data-src="/assets/img/2019-12-26/parakeet-in-tree.jpg" alt-text="Greenwich Park Parakeet" uk-img/>
+    <img data-src="/assets/img/2019-12-26/parakeet-in-tree.jpg" alt="Greenwich Park Parakeet" uk-img/>
   </div>
   <div>
-    <img data-src="/assets/img/2019-12-26/parakeet-on-branch.jpg" alt-text="Greenwich Park Parakeet" uk-img/>
+    <img data-src="/assets/img/2019-12-26/parakeet-on-branch.jpg" alt="Greenwich Park Parakeet" uk-img/>
   </div>
   <div>
-    <img data-src="/assets/img/2019-12-26/heron-garden.jpg" alt-text="Surprise Heron Visit" uk-img/>
+    <img data-src="/assets/img/2019-12-26/heron-garden.jpg" alt="Surprise Heron Visit" uk-img/>
   </div>
 </div>
 
