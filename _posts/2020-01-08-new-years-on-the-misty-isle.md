@@ -12,7 +12,7 @@ Several hours later, we arrived in darkness at our accommodation for the week.  
 
 ![Easy scrambling terrain on the Southern Cuillin](/assets/img/2020-01-08/on-the-ridge.JPG)
 
-The sun remained hovering just above the horizon for the rest of the day as we made the (longer than expected) approach to Gars Bheinn.  After Christmas and a couple of weeks without cycling to work, the 500 metre ascent from the path was surprisingly exhausting work.  In a fitting metaphor, every cloud has a silver lining and we were treated to cloud inversion began to form while we stopped for lunch as well as our first (of several) Brocken spectres of the day.
+The sun remained hovering just above the horizon for the rest of the day as we made the (longer than expected) approach to Gars Bheinn.  After Christmas and a couple of weeks without cycling to work, the 500 metre ascent from the path was surprisingly exhausting work.  In a fitting metaphor, every cloud has a silver lining and we were treated to cloud inversion which began to form while we stopped for lunch as well as our first (of several) Brocken spectres of the day.
 
 ![View from Sg&ugrave;rr nan Eag to Sg&ugrave;rr Alasdair](/assets/img/2020-01-08/sgurr-alasdair.JPG)
 
