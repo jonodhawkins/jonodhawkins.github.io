@@ -24,11 +24,11 @@ It is quite difficult to know what line to strike with regards to the number of 
 
 ![Winter (almost) on the Ysgolion Duon](/assets/img/2020-01-20/ysgolion-duon.JPG)
 
-After a bite to eat for lunch in the shelter of the summit cairn, we made our way back to Pen y Pass and headed home for a delicious ramen dinner.  THe next day was a slightly later start and everyone was heading up onto the hill.  Faye and I were dropped off just outside of Bethesda to walk into Cwm Pen-llafar to check out the Llech Ddu spur, while Ken, Clare, Hannah and Tom drove into Ogwen and ascended Carnedd Dafydd via Pen yr Ole Wen.
+After a bite to eat for lunch in the shelter of the summit cairn, we made our way back to Pen y Pass and headed home for a delicious ramen dinner.  The next day was a slightly later start and everyone was heading up onto the hill.  Faye and I were dropped off just outside of Bethesda to walk into Cwm Pen-llafar to check out the Llech Ddu spur, while Ken, Clare, Hannah and Tom drove into Ogwen and ascended Carnedd Dafydd via Pen yr Ole Wen.
 
 ![Faye enjoying the Llech Ddu spur](/assets/img/2020-01-20/crib-lem.JPG)
 
-The conditions on the spur were amazing.  The low temperatures overnight had resulted in turf even at the valley level beginning to freeze and a further dusting over snow overnight meant the climbing was perfect.  As we topped out, my phone buzzed as Ken let us know they were also just about to get to the summit of Carnedd Dafydd.  It would probably have been more difficult to coordinate better timing!  Faye and I devoured what was left of our food before taking a photo of the six of us and then heading down.
+The conditions on the spur were amazing.  The low temperatures overnight had resulted in turf even at the valley level beginning to freeze and a further dusting of snow overnight meant the climbing was perfect.  As we topped out, my phone buzzed as Ken let us know they were also just about to get to the summit of Carnedd Dafydd.  It would probably have been more difficult to coordinate better timing!  Faye and I devoured what was left of our food before taking a photo of the six of us and then heading down.
 
 ![Look who we found on Carnedd Dafydd](/assets/img/2020-01-20/carnedd-dafydd.JPG)
 
