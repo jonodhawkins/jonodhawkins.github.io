@@ -1,6 +1,10 @@
+var lastTag = null;
+
 $(document).ready(function () {
-  console.log("Wrapping all images in lightbox.")
-  $("div.post img").each(function (idx) {
+
+  var img = $("div.post img");
+  //
+  img.each(function (idx) {
     $(this).attr('uk-img', '');
     if ($(this).attr('data-src') !== undefined) {
       $(this).attr('data-src', $(this).attr('data-src'));
@@ -11,13 +15,42 @@ $(document).ready(function () {
     }
   });
 
-  $("div.post img").wrap(
-    function () {
-      console.log("Replacing " + $(this).attr("src"));
-      return "<div uk-lightbox class=\"img-lightbox\"><a href=\"" + $(this).attr("data-src") + "\" data-alt=\"" + $(this).attr("alt") + "\" data-caption=\"" + $(this).attr("alt") + "\"></a></div>";
+  var lightboxItems = [];
+  var anchors = [];
+
+  img.each(function (index) {
+
+    // Wrap each image in an anchor tag
+    anchors.push($(this).wrap("<a href=\"#\" name=\"" + index + "\" lightbox-button></a>"));
+
+    // Caption
+    captionText = '';
+    if ($(this).attr('alt') !== undefined) {
+      captionText = $(this).attr('alt');
     }
-  );
-  UIkit.lightbox($("div.img-lightbox"));
-  UIkit.lightboxPanel($())
-  //replaceWith("<div uk-lightbox><a href=\"" + $(this).attr("src") + "\" data-alt=\"" + $(this).attr("alt") + "\"></a></div>");
+
+    lightboxItems.push({
+      source: $(this).attr('data-src'),
+      caption: captionText,
+      container: 'div.post'
+    })
+
+  });
+
+  $(anchors).each(function (index) {
+    $(this).click(function () {
+      lastTag = index;
+      UIkit.lightboxPanel({
+        items: lightboxItems,
+        preload: 2
+      }).show(index);
+    })
+  });
+
+  $(document).on('hide', 'div.uk-lightbox', function () {
+    tag = $("a[name='"+ lastTag + "']");
+    $("html,body").animate({scrollTop: tag.offset().top}, {duration: 0});
+  });
+
+
 });
