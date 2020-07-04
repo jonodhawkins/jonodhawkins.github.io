@@ -5,7 +5,7 @@ import os, re, yaml, string, PIL.Image, math
 
 print("Running image_resize script (Version 0.1)")
 
-photoIndex = "_data/photos_test.yml"
+photoIndex = "_data/photos.yml"
 photoList = [];
 
 with open(photoIndex, 'r') as file:

@@ -10,7 +10,7 @@ title: Photos and Media
 {% for photo in site.data.photos %}
   <div class="{% if photo.width == 2 %}uk-width-2-3{% endif %}">
   <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
-    <img data-src="{{ photo.filename }}" alt="{{ photo.alt-text }}" uk-img class="uk-responsive-width">
+    <img data-src="{{ photo.smallFilename }}" alt="{{ photo.alt-text }}" uk-img class="uk-responsive-width">
     <div uk-lightbox>
     <a data-alt="{{ photo.alt-text }}" data-caption="{{ photo.alt-text }}{% if photo.credit %} ({{ photo.credit }}{% if photo.date %}, {{ photo.date }}{% endif %}  ){% endif %}" href="{{ photo.filename }}">
       <div class="uk-transition-fade uk-position-cover uk-position uk-overlay uk-flex uk-flex-center uk-flex-middle uk-overlay-primary">
