@@ -1,8 +1,3 @@
-- alt-text: Carnedd Ugain fading into the cloud under a light blanket of snow (January
-    2020)
-  filename: /assets/img/carnedd-ugain-snow.jpg
-  smallFilename: /assets/img/carnedd-ugain-snow-small.jpg
-  title: Carnedd Ugain
 - alt-text: View of the Glacier Blanc, Ecrins National Park at Sunrise (Acryllic on
     paper).
   filename: /assets/img/glacier-blanc.jpg
@@ -12,6 +7,15 @@
   filename: /assets/img/comorant.jpg
   smallFilename: /assets/img/comorant-small.jpg
   title: Comorant
+- alt-text: Elidir Fawr dusted in snow on a January afternoon in 2020
+  filename: /assets/img/elidir-fawr-snow.jpg
+  smallFilename: /assets/img/elidir-fawr-snow-small.jpg
+  title: Elidir Fawr
+- alt-text: Carnedd Ugain fading into the cloud under a light blanket of snow (January
+    2020)
+  filename: /assets/img/carnedd-ugain-snow.jpg
+  smallFilename: /assets/img/carnedd-ugain-snow-small.jpg
+  title: Carnedd Ugain
 - alt-text: Ash pulling hard on Little Prow, Hound Tor, Dartmoor.
   filename: /assets/img/ash-bw-dartmoor.jpg
   smallFilename: /assets/img/ash-bw-dartmoor-small.jpg
