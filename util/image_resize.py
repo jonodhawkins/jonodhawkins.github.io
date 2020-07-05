@@ -1,6 +1,14 @@
 # Batch image resize script
 # Version 0.1
 # J.D. Hawkins 04/07/2020
+#
+# REQUIRES THE 'Pillow' LIBRARY
+#
+# How to run:
+#   - set the photoIndex directory to the location of the photos.yml file
+#   - the script will then (for each photo) check whether a 'smallFilename'
+#     version exists and then resize the file and add the filename to the local #     directory
+
 import os, re, yaml, string, PIL.Image, math
 
 print("Running image_resize script (Version 0.1)")
