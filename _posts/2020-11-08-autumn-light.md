@@ -8,15 +8,15 @@ Days behind desks can feel particularly long when the light fades at 4pm.  A cyc
 
 <div class="uk-grid uk-child-width-1-2 uk-grid-small" uk-grid="masonry: true">
   <div>
-    <img src="/assets/img/2020-11-08/branch.jpg" alt="Branch in Lesnes Abbey woods." />
+    <img src="/assets/img/2020-11-08/branch.JPG" alt="Branch in Lesnes Abbey woods." />
   </div>
   <div>
     <img src="/assets/img/2020-11-08/parakeet.jpg" alt="Parakeet illuminated amongst the branches." />
   </div>
   <div>
-    <img src="/assets/img/2020-11-08/tunnel.jpg" alt="Light peeking through the branches along a footpath." />
+    <img src="/assets/img/2020-11-08/tunnel.JPG" alt="Light peeking through the branches along a footpath." />
   </div>
   <div>
-    <img src="/assets/img/2020-11-08/woodcarving.jpg" alt="A woodcarving at the side of the footpath." />
+    <img src="/assets/img/2020-11-08/woodcarving.JPG" alt="A woodcarving at the side of the footpath." />
   </div>
 </div>
