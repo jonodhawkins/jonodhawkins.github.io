@@ -6,6 +6,8 @@ thumbnail: /assets/img/2021-01-27/thumbnail.png
 ---
 <img src="/assets/img/2021-01-27/03012020073000_point.gif" alt="Example bike hire activity data from 3/1/20" />
 
+**This is a work in progress!**
+
 Back as an undergrad, we were set an assignment for out Introduction to
 Programming course to develop a UI in Python that displayed some open access
 data in a 'user-friendly' way.  I had recently come across the [TfL Open Data
