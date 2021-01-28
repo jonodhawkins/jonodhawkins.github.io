@@ -28,8 +28,6 @@ twitter_username: jonohawkins
 github_username:  jonodhawkins
 author: Jono Hawkins
 
-highlighter: rouge
-
 defaults:
   -
     scope:
@@ -53,6 +51,12 @@ collections:
 
 paginate: 4
 paginate_path: "/blog/page-:num/"
+
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 plugins:
   - jekyll-paginate
