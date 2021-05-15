@@ -2,17 +2,20 @@
 layout: default
 title: Photos and Media
 ---
+<script src="/assets/js/photo-sorter.js"></script>
 <h2 class="uk-heading-divider">{{ page.title }}</h2>
 <p>
   Below are some picks of photos, paintings and sketches from recent (or not) trips.  I tend to paint in watercolour or acryllic, and photograph using a small compact or Canon DSLR - although I occasionally experiment with 35mm film.
 </p>
-<div class="uk-margin-bottom uk-child-width-1-2 uk-child-width-1-3@m uk-grid-small" uk-grid="masonry: true">
+<div class="jh-photo-sorter uk-grid-small uk-child-width-auto uk-grid"></div>
+<div class="jh-photo-grid uk-margin-bottom uk-child-width-1-2 uk-child-width-1-3@m uk-grid-small" uk-grid="masonry: true">
 {% for photo in site.data.photos %}
-  <div class="{% if photo.width == 2 %}uk-width-2-3{% endif %}">
+  <div class="jh-photo {% if photo.width == 2 %}uk-width-2-3{% endif %}">
   <div class="uk-inline-clip uk-transition-toggle" tabindex="0">
-    <img data-src="{{ photo.smallFilename }}" alt="{{ photo.alt-text }}" uk-img class="uk-responsive-width">
+    <img data-src="{% if photo.smallFilename %}{{ photo.smallFilename }}{% else %}{{ photo.filename }}{% endif %}" alt="{{ photo.alt-text }}" uk-img class="uk-responsive-width">
+    <div class="jh-photo-tags">{{ photo.tags }}</div>
     <div uk-lightbox>
-    <a data-alt="{{ photo.alt-text }}" data-caption="{{ photo.alt-text }}{% if photo.credit %} ({{ photo.credit }}{% if photo.date %}, {{ photo.date }}{% endif %}  ){% endif %}" href="{{ photo.filename }}">
+    <a data-alt="{{ photo.alt-text }}" data-caption="{{ photo.alt-text }}{% if photo.credit %} ({{ photo.credit }}{% if photo.date %}, {{ photo.date }}{% endif %}){% endif %}" href="{{ photo.filename }}">
       <div class="uk-transition-fade uk-position-cover uk-position uk-overlay uk-flex uk-flex-center uk-flex-middle uk-overlay-primary">
         <div class="uk-visible@m">
           <h4>{{ photo.title }}</h4>

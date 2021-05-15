@@ -1,101 +1,149 @@
-- alt-text: Ink pen sketch of Isolated Buttress at Harrisons Rocks before storm clouds rolled in.
+- filename: /assets/img/GlacierDArgentiere.JPG
+  smallFilename: /assets/img/GlacierDArgentiere-small.JPG
+  title: Glacier D'Argentiere
+  alt-text: View over the Glacier D'Argentiere from the Petite Aiguille Verte in Chamonix, acrylic on paper.
+  tags: art,acrylic,mountain,glacier
+- filename: /assets/img/Stanage_TheBlurter.JPG
+  smallFilename: /assets/img/Stanage_TheBlurter-small.JPG
+  tags: art,pen,climbing,b&w
+  title: The Blurter, Stanage
+  alt-text: Looking along the country's premier gritstone edge towards The Blurter and beyond.
+- filename: /assets/img/SouthStack.JPG
+  smallFilename: /assets/img/SouthStack-small.JPG
+  title: South Stack
+  alt-text: A quick pen sketch of South Stack Lighthouse, Anglesey
+  tags: art,pen,coastal
+- filename: /assets/img/PointLachenal.JPG
+  smallFilename: /assets/img/PointLachenal-small.JPG
+  title: Pointe Lachenal
+  alt-text: Storm clouds brewing in the background behind Pointe Lachenal, Chamonix.  Acrylic on paper.
+  tags: art,paper,mountain,glacier,acrylic
+- alt-text: Ink pen sketch of Isolated Buttress at Harrisons Rocks before storm clouds
+    rolled in.
   filename: /assets/img/harrisons.png
   smallFilename: /assets/img/harrisons-small.png
+  tags: art,pen,climbing,b&w
   title: Isolated Buttress, Harrisons Rocks
 - alt-text: View of the Glacier Blanc, Ecrins National Park at Sunrise (Acryllic on
     paper).
   filename: /assets/img/glacier-blanc.jpg
   smallFilename: /assets/img/glacier-blanc-small.jpg
+  tags: art,acrylic,mountain,climbing,glacier
   title: Glacier Blanc
 - alt-text: Pen sketch of resident Comorant in Limehouse Basin (Pen on paper).
   filename: /assets/img/comorant.jpg
   smallFilename: /assets/img/comorant-small.jpg
+  tags: art,pen,bird,b&w
   title: Comorant
 - alt-text: Elidir Fawr dusted in snow on a January afternoon in 2020
   filename: /assets/img/elidir-fawr-snow.jpg
   smallFilename: /assets/img/elidir-fawr-snow-small.jpg
+  tags: photo,b&w,wales,mountain
   title: Elidir Fawr
 - alt-text: Carnedd Ugain fading into the cloud under a light blanket of snow (January
     2020)
   filename: /assets/img/carnedd-ugain-snow.jpg
   smallFilename: /assets/img/carnedd-ugain-snow-small.jpg
+  tags: photo,mountain,wales
   title: Carnedd Ugain
 - alt-text: Ash pulling hard on Little Prow, Hound Tor, Dartmoor.
   filename: /assets/img/ash-bw-dartmoor.jpg
   smallFilename: /assets/img/ash-bw-dartmoor-small.jpg
+  tags: photo,dartmoor,climbing
   title: Little Prow
 - alt-text: Pavey Ark in Winter. Acryllic on paper.
   filename: /assets/img/pavey-ark.jpg
   smallFilename: /assets/img/pavey-ark-small.jpg
+  tags: art,acrylic,mountain
   title: Pavey Ark
 - alt-text: Pencil sketch of Tryfan on a winter morning.
   filename: /assets/img/tryfan.jpg
   smallFilename: /assets/img/tryfan-small.jpg
+  tags: art,mountain,pencil,b&w
   title: Tryfan
 - alt-text: Celebrating a long day of cycle touring at Neist Point.
   filename: /assets/img/neistpoint.jpg
   smallFilename: /assets/img/neistpoint-small.jpg
+  tags: photo,skye,people
   title: Neist Point
 - filename: /assets/img/old-man-storr.JPG
   smallFilename: /assets/img/old-man-storr-small.JPG
+  tags: photo,mountain
   title: Old Man of Storr
 - alt-text: Unknown climber through the rock on Gimmer Crag.
   filename: /assets/img/climber-on-gimmer.JPG
   smallFilename: /assets/img/climber-on-gimmer-small.JPG
+  tags: photo,b&w,climbing
 - alt-text: A chilly September day on Kipling Groove, Gimmer Crag
   credit: Faye Latham
   date: August 2019
   filename: /assets/img/2019-12-09/kipling.jpeg
+  tags: photo,climbing
   title: Kipling Groove
 - alt-text: Faye on the walk up to Cwm Bochlwyd.
   filename: /assets/img/faye-tryfan.JPG
   smallFilename: /assets/img/faye-tryfan-small.JPG
+  tags: photo,people,wales
   title: null
 - filename: /assets/img/greenwich-queens-house.jpg
   smallFilename: /assets/img/greenwich-queens-house-small.jpg
+  tags: art,watercolour,london
   title: The Queen's House
 - alt-text: Clouds pouring over the Garstenhorner into the Rh&#244;ne Glacier.
   filename: /assets/img/rhonebw.jpg
   smallFilename: /assets/img/rhonebw-small.jpg
+  tags: photo,b&w,mountain,glacier
   title: Clouds on Rh&#244;ne Glacier
 - alt-text: Radio telescope just outside of Ny Alesund.
   filename: /assets/img/ny-alesund.JPG
   smallFilename: /assets/img/ny-alesund-small.JPG
+  tags: photo,glacier
 - alt-text: Supraglacial meltwater channel on Mitrelovenbreen.
   filename: /assets/img/mitre-meltwater.jpg
   smallFilename: /assets/img/mitre-meltwater-small.jpg
+  tags: photo,glacier
   title: Mitrelovenbreen Meltwater
 - alt-text: Ed King walking along the foreshore of Kongsfjorden.
   filename: /assets/img/ed-king.JPG
   smallFilename: /assets/img/ed-king-small.JPG
+  tags: photo,glacier,people,mountain
 - alt-text: Engineer's Crack, a stonkingly good E1 on the Buchaille.
   filename: /assets/img/nathanclimbing.jpg
   smallFilename: /assets/img/nathanclimbing-small.jpg
+  tags: photo,climbing,people
   title: Engineer's Crack
 - alt-text: Eerie spectre-esque shadows on the Buchaille from a low February sun.
   filename: /assets/img/buchaille.jpg
   smallFilename: /assets/img/buchaille-small.jpg
+  tags: photo,people,mountain,climbing
 - alt-text: A stunning blue sky over a snow-free Carn Mor Dearg in... February?
   filename: /assets/img/cmdbluesky.jpg
+  not-tags: photo,mountain
   smallFilename: /assets/img/cmdbluesky-small.jpg
 - alt-text: Duncan and Ash at sunrise on the Glacier Blanc.
   filename: /assets/img/duncan-glacier-blanc.JPG
   smallFilename: /assets/img/duncan-glacier-blanc-small.JPG
+  tags: photo,glacier,mountain,people
   title: Glacier Blanc Sunrise
 - alt-text: Mixed seaons on the saddle from Pen Yr Ole Wen to Carnedd Llwelyn.
   filename: /assets/img/carneddlwellyn.jpg
   smallFilename: /assets/img/carneddlwellyn-small.jpg
+  tags: photo,mountain
   title: Mixed Seasons
 - alt-text: Autumn light through the trees in the Wye Valley, acrllic on paper.
   filename: /assets/img/wye-woods-painting.jpg
   smallFilename: /assets/img/wye-woods-painting-small.jpg
+  tags: art,acrylic,woodland
   title: Autumn Wood
 - alt-text: Meg, Ash, Ollie and Faye in Les Deux Alpes.
   filename: /assets/img/skifrens.jpg
   smallFilename: /assets/img/skifrens-small.jpg
+  tags: photo,people
 - alt-text: Subtle pink Alpine hues in Les Deux Alpes.
   filename: /assets/img/skiview1.jpg
   smallFilename: /assets/img/skiview1-small.jpg
+  tags: photo,mountain
 - alt-text: Ash reaching for the next piece on Poldubh Slabs.
   filename: /assets/img/ash-climbing-poldubh.JPG
   smallFilename: /assets/img/ash-climbing-poldubh-small.JPG
+  tags: photo,climbing,people
