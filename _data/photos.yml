@@ -1,23 +1,46 @@
-- filename: /assets/img/GlacierDArgentiere.JPG
+- filename: /assets/img/mandarin.JPG
+  smallFilename: /assets/img/mandarin-small.JPG
+  title: Mandarin
+  alt-text: Mandarin duck on the bank of the Ribble.
+  tags: photo,bird
+- filename: /assets/img/dipper.JPG
+  smallFilename: /assets/img/dipper-small.JPG
+  title: Dipper
+  alt-text: Dipper resting on the banks of the Ribble.
+  tags: photo,bird
+- filename: /assets/img/blackbird.JPG
+  smallFilename: /assets/img/blackbird-small.JPG
+  title: Blackbird
+  alt-text: Nosey blackbird by Stainforth Foss.
+  tags: photo,bird
+- filename: /assets/img/stainforth.JPG
+  smallFilename: /assets/img/stainforth-small.JPG
+  title: Stainforth Foss
+  alt-text: Sun breaking through the clouds on Stainforth Foss.
+  tags: photo
+- alt-text: View over the Glacier D'Argentiere from the Petite Aiguille Verte in Chamonix,
+    acrylic on paper.
+  filename: /assets/img/GlacierDArgentiere.JPG
   smallFilename: /assets/img/GlacierDArgentiere-small.JPG
-  title: Glacier D'Argentiere
-  alt-text: View over the Glacier D'Argentiere from the Petite Aiguille Verte in Chamonix, acrylic on paper.
   tags: art,acrylic,mountain,glacier
-- filename: /assets/img/Stanage_TheBlurter.JPG
+  title: Glacier D'Argentiere
+- alt-text: Looking along the country's premier gritstone edge towards The Blurter
+    and beyond.
+  filename: /assets/img/Stanage_TheBlurter.JPG
   smallFilename: /assets/img/Stanage_TheBlurter-small.JPG
   tags: art,pen,climbing,b&w
   title: The Blurter, Stanage
-  alt-text: Looking along the country's premier gritstone edge towards The Blurter and beyond.
-- filename: /assets/img/SouthStack.JPG
+- alt-text: A quick pen sketch of South Stack Lighthouse, Anglesey
+  filename: /assets/img/SouthStack.JPG
   smallFilename: /assets/img/SouthStack-small.JPG
-  title: South Stack
-  alt-text: A quick pen sketch of South Stack Lighthouse, Anglesey
   tags: art,pen,coastal
-- filename: /assets/img/PointLachenal.JPG
+  title: South Stack
+- alt-text: Storm clouds brewing in the background behind Pointe Lachenal, Chamonix.  Acrylic
+    on paper.
+  filename: /assets/img/PointLachenal.JPG
   smallFilename: /assets/img/PointLachenal-small.JPG
-  title: Pointe Lachenal
-  alt-text: Storm clouds brewing in the background behind Pointe Lachenal, Chamonix.  Acrylic on paper.
   tags: art,paper,mountain,glacier,acrylic
+  title: Pointe Lachenal
 - alt-text: Ink pen sketch of Isolated Buttress at Harrisons Rocks before storm clouds
     rolled in.
   filename: /assets/img/harrisons.png
