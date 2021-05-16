@@ -39,3 +39,22 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   height: 0;
 }
+
+
+.footer ul li::marker {
+  content: '>  ';
+}
+
+ul.jh-contact {
+  list-style-type: none !important;
+  padding: 0;
+  margin: 0;
+}
+
+ul.jh-contact li::marker {
+  content: '';
+}
+
+ul.jh-contact li > span {
+  margin-right: 1em;
+}
