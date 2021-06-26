@@ -4,5 +4,7 @@
   link: /about
 - name: posts
   link: /blog
+- name: projects
+  link: /projects
 - name: photos and media
   link: /photos
