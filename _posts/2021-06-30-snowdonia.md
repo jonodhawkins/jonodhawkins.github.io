@@ -22,13 +22,13 @@ Blessed with good weather for my first visit to Snowdonia since the pandemic sta
     <img src="/assets/img/2021-06-30/moss-carpet.JPG" alt="A carpet of moss and fungi in Ceunant Llennyrch." />
   </div>
   <div>
-    <img src="/assets/img/2021-06-30/cwmorthin-water.PNG" alt="Small rocky waterfall below Clogwyn Brîth" />
+    <img src="/assets/img/2021-06-30/cwmorthin-water.png" alt="Small rocky waterfall below Clogwyn Brîth" />
   </div>
   <div>
-    <img src="/assets/img/2021-06-30/watkin-falls.PNG" alt="Long exposure at the waterfalls on the Watkin Path." />
+    <img src="/assets/img/2021-06-30/watkin-falls.png" alt="Long exposure at the waterfalls on the Watkin Path." />
   </div>
   <div>
-    <img src="/assets/img/2021-06-30/yr-arddu.PNG" alt="Mixed light on Yr Arddu from Cnicht." />
+    <img src="/assets/img/2021-06-30/yr-arddu.png" alt="Mixed light on Yr Arddu from Cnicht." />
   </div>
   <div>
     <img src="/assets/img/2021-06-30/faye-cnicht.JPG" alt="Faye making her way down from the summit of Cnicht." />
