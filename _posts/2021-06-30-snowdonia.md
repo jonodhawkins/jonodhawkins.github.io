@@ -2,6 +2,7 @@
 layout: post
 title: Sun/Snowdonia
 thumbnail: /assets/img/2021-06-30/thumbnail.JPG
+icon: photo
 ---
 Blessed with good weather for my first visit to Snowdonia since the pandemic started, this was a fantastic opportunity to try out my new ND and graduated filters in a different setting.  Below are some of the results I'm happiest with.
 

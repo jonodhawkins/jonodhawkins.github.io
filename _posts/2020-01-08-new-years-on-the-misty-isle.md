@@ -3,6 +3,7 @@ layout: post
 title: New Year on the Misty Isle
 excerpt: A typically wet and windy winter getaway to Scotland and the Highlands to see in the New Year, with one token good weather day on the Souther Cuillin.
 thumbnail: /assets/img/2020-01-08/thumbnail.jpg
+icon: travel
 ---
 As has been the case for the past four years, the new year brought about a heavy thaw after what looked like promising and frozen cold snap in the weeks prior.  Nevertheless, at 5:30pm on Sunday 29th December I strapped on overpacked duffle bag full of winter kit and headed for Kings Cross.  A generous stopover at Adam's in Sheffield later, we were on the now too familiar drive to Gretna Green, Glasgow and beyond.
 

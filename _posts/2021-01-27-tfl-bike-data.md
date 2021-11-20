@@ -3,6 +3,7 @@ layout: post_toc
 title: TFL Bike Data in Python
 excerpt: Playing with TFL Cycling data to create offline animations of hire-bike activity.
 thumbnail: /assets/img/2021-01-27/thumbnail.png
+icon: code
 ---
 <img src="/assets/img/2021-01-27/03012020073000_point.gif" alt="Example bike hire activity data from 3/1/20" />
 

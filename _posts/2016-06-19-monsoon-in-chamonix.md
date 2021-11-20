@@ -2,7 +2,8 @@
 layout: post
 title: Monsoon Season in Chamonix&#58; A First Alpine Summer
 thumbnail: /assets/img/2016-08-01/banner.jpg
-excerpt: A rainy first season in Chamonix sets the retrospective tone that climate change is firmly stamping its effects on the Alps. 
+excerpt: A rainy first season in Chamonix sets the retrospective tone that climate change is firmly stamping its effects on the Alps.
+icon: travel
 ---
 It was a pretty straightforward journey from Bristol to Chamonix on 6th June, meeting Ash and Adam at Bristol Airport before flying out to Geneva and hopping on an early EasyBus through the foothills of the Alps and into Chamonix. One by one we bought some food for the next couple of days from Super U, and then caught the bus up the valley towards Argentiere. Having checked in at the campsite and pitched our tents (I dumped my kit in the tent set up by Claire a few days earlier) we lay in the sun, admired the sunny view of the Aiguille Rouges opposite the campsite and relaxed.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Three Peaks and Twitching in Yorkshire
 thumbnail: /assets/img/2021-05-07/thumbnail.JPG
+icon: photo
 ---
 A few photos from last weeks trip to the Yorkshire Dales.  Initially supposed to be a walk along the Pennine Way, Covid-related campsite closures resulted in spending some time in Horton in Ribblesdale instead and taking on the Yorkshire Three Peaks.
 

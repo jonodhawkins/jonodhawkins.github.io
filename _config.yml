@@ -45,6 +45,7 @@ defaults:
       layout: "post"
       author: "Jono Hawkins"
       thumbnail: "/assets/img/blog-thumbnail.svg"
+      icon: "default"
 
 collections:
   photos:

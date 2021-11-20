@@ -3,6 +3,7 @@ layout: post
 title: Mountains, Biker Gangs and Capsizing&#58; The Dolomites
 thumbnail: /assets/img/2016-09-01/banner.jpg
 excerpt: The title says it all, there was quite a bit of variety when it came to visiting the Dolomites and Slovenia by public transport alone.
+icon: travel
 ---
 Leaving home for a holiday in the afternoon is always a bad idea. It seems like you’re giving yourself more time to pack, more time to prepare and more time to get to the airport promptly. The reality is different, as we realised at 3am on the floor of Venice Airport having arrived at midnight, while being moved on by the cleaning staff...
 7’o’clock couldn’t have come soon enough. Claire and I boarded the ATVO bus from Venice Marco Polo airport to Cortina D’Ampezzo in the heart of the Eastern Dolomites and swiftly fell asleep for almost the entirety of the journey. We sought out the ‘La Cooperativa’ supermarket and purchased gas and food, had a picnic lunch in the main square then returned to the bus station. Our original plan was to tackle the ‘Sorapis Gruppa’, a two day Via Ferrata circuit around Mt. Sorapis, however we took a chance on there being space at the Rifugio Locatelli (Dreizinnenhutte) and jumped on a bus to the Tre Cime Natural Park.

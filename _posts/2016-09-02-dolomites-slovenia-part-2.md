@@ -3,6 +3,7 @@ layout: post
 title: Mountains, Biker Gangs and Capsizing&#58; Slovenia
 thumbnail: /assets/img/2016-09-02/banner.jpg
 excerpt: The title says it all, there was quite a bit of variety when it came to visiting the Dolomites and Slovenia by public transport alone.
+icon: travel
 ---
 Four hours in Innsbruck train station’s ‘McDonalds’ passed very slowly but our train soon arrived and we tried to find our carriage. Walking past several near-empty and unreserved coaches, the guard pointed us in the direction of the compartment where our seats were. Claire beat me to looking at the scene inside our compartment, but despite her startled look I swung the door open to overpowering fumes of beer and whiskey: inside were four half asleep, leather-clad bikers. With a can of beer thrust into our hands we knew we were in for a long night.
 

@@ -1,0 +1,40 @@
+---
+layout: default
+title: Posts
+---
+<table class="uk-table uk-table-divider uk-table-middle">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Post</th>
+            <th>Date</th>
+            <th>Author</th>
+            <th>Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for post in site.posts %}
+        <tr>
+            <td>
+                {% case post.icon %}
+                {% when "photo" %}
+                <span uk-icon="icon: image"></span>
+                {% when "travel" %} 
+                <span uk-icon="icon: world"></span>
+                {% when "art" %}
+                <span uk-icon="icon: pencil"></span>
+                {% when "code" %}
+                <span uk-icon="icon: code"></span>
+                {% else %}
+                <span uk-icon="icon: file-text"></span>
+                {% endcase %}
+            </td>
+            <td>{{ post.title }}</td>
+            <td>{{ post.date | date_to_string }}</td>
+            <td>{{ post.author }}</td>
+            <td><a class="uk-button uk-button-default" href="{{ post.url }}">Read</a></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<div class="uk-padding"></div>

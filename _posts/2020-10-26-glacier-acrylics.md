@@ -3,6 +3,7 @@ layout: post
 title: Glacier Acrylics
 excerpt:  Paintings of the Barre des Ecrins, France and Conwaybreen, Svalbard.
 thumbnail: /assets/img/2020-10-26/thumbnail.jpg
+icon: art
 ---
 These paintings were completed from photos of a trip to the Ecrins National Park prior to starting my PhD in 2018, and from a NERC field course to Svalbard.  They are painted in acrylic on canvas.
 
