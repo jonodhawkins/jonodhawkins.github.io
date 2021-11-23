@@ -10,9 +10,14 @@
     </div>
     <div class="uk-width-1-3@m">
       <h3>Sitemap</h3>
-      <ul>
-        {% for item in site.data.nav %}
+      <ul class="sitemap">
+        {% for item in site.data.sitemap %}
         <li><a href="{{ item.link }}">{{ item.name | capitalize }}</a></li>
+        {% if item.sub-menu %}
+          {% for item in item.sub-menu %}
+          <li class="sub-menu"><a href="{{ item.link }}">{{ item.name | | capitalize }}</a></li>
+          {% endfor %}
+        {% endif %}
         {% endfor %}
       </ul>
     </div>

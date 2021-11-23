@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_toc
 title: Antarctica / Quarantine Pt. 1
 thumbnail: /assets/img/2021-11-19/thumbnail.jpg
 excerpt: Travelling from London to Cape Town, via Munich, for two weeks of quarantine prior to fieldwork at Neumayer III and the Ekstr&ouml;m Ice Shelf with the ReMeltRadar project at the Univeristy of T&uuml;ebingen.
@@ -54,6 +54,28 @@ As mentioned, AWI delivered kit bags yesterday to be checked prior to our flight
 
 ![My generously sized room for the duration of quarantine.](/assets/img/2021-11-20/room.jpg)
 
-In the afternoon, between bouts of working in MATLAB, I took a time-lapse video of the clouds that tumble over Table Mountain into Platterklip Gorge and scenes across the bay to make a change from the already hundreds of photos I've managed to take.  Later in the afternoon, I was joined on the balchony by what looked like a juvenile speckled pigeon and its parents as the juvenile struggled to take off again.  The red-circled eyes of the adults are striking and have an air of theatrical make-up or warpaint drawn upon a regular rock pigeon.
+In the afternoon, between bouts of working in MATLAB, I took a time-lapse video of the clouds that tumble over Table Mountain into Platterklip Gorge and scenes across the bay to make a change from the already hundreds of photos I've managed to take.  Later in the afternoon, I was joined on the balcony by what looked like a juvenile speckled pigeon and its parents as the juvenile struggled to take off again.  The red-circled eyes of the adults are striking and have an air of theatrical make-up or warpaint drawn upon a regular rock pigeon.
 
 ![Speckled pigeons resting on the edge of the balcony.](/assets/img/2021-11-20/speckled-pigeon.jpg)
+
+## Day 5 / Sunday
+I slept well last night despite another late bedtime, this time caused by falling down the rabbit hole of strange Git behaviour on the UCL EEE servers.  Eventually I decided it was best left for the morning, with less bleary-eyed Googling it was quickly resolved and I was able to get some data churning away.  Ironically I felt asleep before I could finish writing this on Sunday as it was late again by the time came to writing (so this has been written on Monday).
+
+Lunch and dinner were particularly tasty today.  The "tagliatelle Italian" or meatballs in tomato sauce were cooked well and a nice comfort food.  For dinner I had chicken in a BBQ sauce with rice, and for dinner a baked milk tart with raspberry sorbet - delicious!  Most of the evening was spent fiddling with the data but as is ritual I took some time out on the balcony to photograph the sunset.
+
+![Light of the setting sun caught on the wet sand after a wave breaks](/assets/img/2021-11-21/sun-in-waves.jpg)
+
+Later in the evening I took a bath and re-watched School of Rock.  It stands the test of time pretty well and was just as enjoyable now as a 25 year old as when it was released in 2003.  Perhaps I've since forgotten, but the sight of Jack Black and his cherry red Gibson SG400 made me reminisce on my early days learning the guitar and how it must have been a very strong influence for my first electric guitar.  Given I was still fiddling with bits of MATLAB code as I watched, the below GIF seems a fitting end to Sunday's mini-blog.
+
+<img src="/assets/img/2021-11-21/school-of-rock.gif" width="100%"/>
+
+## Day 6 / Monday
+it was a slow morning and I struggled to concentrate to begin with, which might have something to do with another late night before as I waited to hear that Faye had got back safely from Kendal.  Yesterday evening I had heard from Reza, already at Neumayer, that he was having some issues with the ApRES and I set up the HF unit I have with me in the hotel room to perform some firmware tests and check everything was working okay.
+
+![Temporary ApRES radar laboratory in the hotel room](/assets/img/2021-11-22/laptop-lab.jpg)
+
+I am powering the radar from a 12V battery, hidden from view in the photo behind the lid of the Peli case.  There are various ways to connect to the ApRES - USB and RS232/Serial for programming or Ethernet for use in the radar's "attended mode".  You can read more about the ApRES in either [this paper](https://ieeexplore.ieee.org/document/6905935) on its design or [this one](https://www.cambridge.org/core/journals/journal-of-glaciology/article/groundbased-radar-for-measuring-vertical-strain-rates-and-timevarying-basal-melt-rates-in-ice-sheets-and-shelves/B952737EB6DDB3D129DF12FC206DC3EB) on its use as an instrument in glaciology.
+
+![Kitesurfer](/assets/img/2021-11-22/kitesurfer.jpg)
+
+I would like to try and finish the GUI for operating the ApRES over the [experimental HTTP API](http://github.com/jonodhawkins/apreshttp) this week, so this afternoon I worked on Python code to read and interpret the output `*.dat` files.  Dinner was relatively light this evening - I enjoyed the calamari and salad but was also glad to have held back a bread roll from breakfast to have with it! 

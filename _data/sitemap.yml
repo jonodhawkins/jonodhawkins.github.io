@@ -1,0 +1,11 @@
+- name: home
+  link: /
+- name: about
+  link: /about
+- name: posts
+  link: /blog
+  sub-menu:
+  - name: all posts
+    link: /blog/all-posts
+- name: photos and media
+  link: /photos

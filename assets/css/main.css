@@ -41,8 +41,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-.footer ul li::marker {
+.footer ul.sitemap li::marker {
   content: '>  ';
+}
+
+.footer ul.sitemap li.sub-menu {
+  margin-left: 1em;
 }
 
 ul.jh-contact {
