@@ -1,0 +1,37 @@
+{ "files" : [
+    {
+    	"name" : "Inner_Hebrides_2023_day_1.geojson",
+        "colour" : "#FFD151",
+        "date" : "3/6/2023"
+    },
+    {
+    	"name" : "Inner_Hebrides_2023_day_2.geojson",
+        "colour" : "#FFD151",
+        "date" : "4/6/2023"
+    },
+    {
+    	"name" : "Inner_Hebrides_2023_day_3.geojson",
+        "colour" : "#EDB230",
+        "date" : "5/6/2023"
+    },
+    {
+    	"name" : "Inner_Hebrides_2023_day_4.geojson",
+        "colour" : "#E77728",
+        "date" : "6/6/2023"
+    },
+    {
+    	"name" : "Inner_Hebrides_2023_day_5.geojson",
+        "colour" : "#FFD151",
+        "date" : "7/6/2023"
+    },
+    {
+    	"name" : "Inner_Hebrides_2023_day_6.geojson",
+        "colour" : "#FFD151",
+        "date" : "8/6/2023"
+    },
+    {
+		"name" : "Inner_Hebrides_2023_day_7.geojson",
+        "colour" : "#EDB230",
+        "date" : "9/6/2023"
+    }
+]}
