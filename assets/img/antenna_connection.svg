@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="53.181664mm"
+   height="16.13979mm"
+   viewBox="0 0 53.181664 16.13979"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-7.8050005,-22.357292)">
+    <path
+       id="path1187"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.135416,22.489583 2.645834,3.96875 2.645833,-3.96875 z M 22.489583,33.072916 H 27.78125 V 27.78125 c 0,-1.322917 0,-1.322917 0,-1.322917" />
+    <path
+       id="path1190"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 43.656251,22.489583 -2.645834,3.96875 -2.645833,-3.96875 z m 2.645833,10.583333 H 41.010417 V 27.78125 c 0,-1.322917 0,-1.322917 0,-1.322917" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.529165, 0.529165;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 29.104165,27.78125 H 39.687499"
+       id="path1192" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="28.971542"
+       y="30.894161"
+       id="text1248"><tspan
+         id="tspan1246"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="28.971542"
+         y="30.894161">433 MHz</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect1300"
+       width="14.552083"
+       height="11.90625"
+       x="7.9375"
+       y="26.458332" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect1302"
+       width="14.552083"
+       height="11.90625"
+       x="46.302082"
+       y="26.458332" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="13.677317"
+       y="33.205208"
+       id="text1306"><tspan
+         id="tspan1304"
+         style="stroke-width:0.264583"
+         x="13.677317"
+         y="33.205208">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="52.771912"
+       y="33.205208"
+       id="text1310"><tspan
+         id="tspan1308"
+         style="stroke-width:0.264583"
+         x="52.771912"
+         y="33.205208">B</tspan></text>
+  </g>
+</svg>
