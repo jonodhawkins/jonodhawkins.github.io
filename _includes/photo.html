@@ -1,0 +1,10 @@
+<div class="uk-inline uk-width-expand">
+    {% if include.credit and include.credit != '' %}
+    <img class="uk-width-expand" src="{{ include.src }}" alt="{{ include.alt }} &copy; {{ include.credit }}">
+    <div class="uk-overlay uk-light uk-position-bottom uk-padding-small">
+        <p>&copy; {{ include.credit}}</p>
+    </div>
+    {% else %}
+    <img src="{{ include.src }}" alt="{{ include.alt }}">
+    {% endif %}
+</div>
