@@ -73,3 +73,43 @@ This petered out eventually into a more gentle descent and at the fork in the pa
 Faye twisted her ankle on the path back to Kreuzboden.  Hopefully dipping our feet in the lake did some good - but hard to keep in for any significant time thanks to the cold of the alpine water.
 
 Took the upper cablecar to see the view from Hohsass. Admired the glacier and eyed up potential routes to revisit in the future.
+
+## 2025-07-02 Wednesday
+To Britannia Hutte and via ferrata
+
+## 2025-07-03 Thursday
+Late morning, walk through town and up lift to proglacial lakes and ice cave
+
+## 2025-07-04 Friday
+Travel to Bolzano via Zurich (pre football, Swiss famous women trail) and Inssbruck.
+
+## 2025-07-05 Saturday
+Morning in Bolzano visiting the Sudtirol Museum of archeology (Otzi the iceman) and a local castle.
+
+Bus to Vigo di Fassa and check in to hotel. 
+
+## 2025-07-06 Sunday
+Magnifici 4 via ferrata and walk down from Buffare. Strange shuttle service who didn't drop us off where asked - despite checking multiple times.
+
+Good via ferrata, very fast german man. 
+
+Small spot of rain on the way down before downpour as we got the bus back from Pozza to Vigo.
+
+Delicious pizza and tiramisu for dinner in Pizzeria La Grotta.
+
+## 2025-07-07 Monday
+Woke up to overnight rain, changed plan from Majare-Vael ferrata to a walk along Val Catinaccio and up to the Vajolet towers.
+
+Beautiful walk along upper tier with no-one around.
+
+## 2025-07-08 Tuesday
+Using yesterday's experience of rock drying, we took the bus to Carezza and the Paolina chairlift to tackle the Majare-Vael ferrata
+
+Caught off-guard by overnight snow
+
+Enjoyable but busy via ferrata
+
+Weather came in earlier than expected and we were back at the cable car in time for the rain to come in full force.
+
+## 2025-07-09 Wednesday
+Travel from Vigo to Bolzano, then on to Riomaggiore

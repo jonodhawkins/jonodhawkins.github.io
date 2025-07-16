@@ -1,16 +1,20 @@
 ---
-layout: post
+layout: post_toc
 title: Mull - Scotland in Spring
 icon: travel
 excerpt: Eagles, swimming in the sea and wooden train sets come together to make for an enjoyable Eastertime trip to the Scottish Isle of Mull.
 thumbnail: /assets/img/2025-04-19/thumbnail.jpg
 ---
 
-## 2025-04-18 Friday
+## Ready, set, Kendal
+<span class="weekday">Friday / 2025-04-18</span>
+
 R&S arrive in Kendal to stay overnight
 Z&M staying in Kirby Lonsdale
 
-## 2025-04-19 Saturday
+## Onward to Oban
+<span class="weekday">Saturday / 2025-04-19</span>
+
 In order to balance the baggage between the Rory and Zo&euml;'s trusty Citro&euml;n C1s, I was in a car with Rory and Si&acirc;n, and Faye was with Zo&euml; and Meg.
 With what felt like plenty of time for our ferry sailing at `17:15`, we left Kendal at `08:30` sharp.
 Four hours drive from Oban, We didn't meet each other en route or stop for lunch and instead arrived into Oban hungry.
@@ -34,7 +38,9 @@ The evening's entertainment (for me and Rory at least) was sorted and we made a 
 
 {% include photo.html src="/assets/img/2025-04-19/trains.jpg" alt="Unlimited engineering challenges await with BRIO trains!" credit="Zo&euml; Richmond" %}
 
-## 2025-04-20 Sunday
+## Nice to see you, to see you Treshnish
+<span class="weekday">Sunday / 2025-04-20</span>
+
 Testing the prowess of the C1s' engines over the moor road, we made a stop en route at the "The Black Beach".
 Parking in a lay-by near the Allt na Cille, we headed down towards the beach and walked into a field scattered with ultimate frisbee goals.
 These make convincing cattle feeders and for a seemingly out of the way field full of Highland cows, I'm still not really sure which these purposes they were intended for.
@@ -61,7 +67,9 @@ We followed this back to the the cars and continued down the coastal road to sto
 The water was fresh (read: freezing!) and it took some time to become accustomed to the temperature - tricky in what is quite a shallow bay.
 It was my turn to cook dinner that evening - on the menu was a lentil chilli, which Faye had been asking me to cook for the last week.
 
-## 2025-04-21 Monday
+## Never mind the rain, it's geomorphology time
+<span class="weekday">Monday / 2025-04-21</span>
+
 The forecast for Monday was rain, so we planned a driving tour of Mull so that we could escape the worst of the weather.
 On the way to our first stop, I suggested we pull over to the side of the road to have a look at a ruined Broch which I had spotted on the map. 
 By chance, this happened to be down the road from the [Lip na Cloiche](http://www.lipnacloiche.co.uk/) gardens.
@@ -91,7 +99,9 @@ Meg and Zo&euml; headed back to the accommodation, while Rory, Si&acirc;n, Faye 
 By the time the four of us had made it back to Dervaig, Helen and Lucy had also arrived. 
 To round off the day, Rory and Si&acirc;n made a delicious vegetable traybake and we fixed our plans for the following day.
 
-## 2025-04-22 Tuesday
+## Island hopping
+<span class="weekday">Tuesday / 2025-04-22</span>
+
 It was Helen's birthday, and to celebrate we had booked a boat trip around Staffa - a volcanically formed island off the western coast of Mull.
 While there were renovation works underway on the jetty it was not possible to land the boat at Staffa, so the tour would instead involve circumnavigating the island instead.
 We drove from Dervaig down to Ulva Ferry, the namesake of the short connecting boat ride from Mull to Ulva, for a 10:00 departure for Staffa.
@@ -119,7 +129,9 @@ We crossed the ferry once again and made our way back to Dervaig, via Calgary ba
 
 {% include photo.html src="/assets/img/2025-04-19/on-ulva.jpg" alt="The gang on Ulva." %}
 
-## 2025-04-23 Wednesday
+## Faye's fish and chip review
+<span class="weekday">Wednesday / 2025-04-23</span>
+
 Far across the Isle of Mull, at the very end of the Ross of Mull lies the holy island of Iona.
 We made the nearly two hour drive for Ffionport where, after catching up with everyone and having a quick spot of lunch, a brief ferry trip took us across to Iona.
 The promise of dolphins on the crossing wasn't realised, however we couldn't have asked for more glorious weather as the CalMac ferry dropped us off.
@@ -127,15 +139,64 @@ After we had visited a small gift shop (of small things), the next stop along th
 
 {% include photo.html src="/assets/img/2025-04-19/ffionport-to-iona.jpg" alt="The gang on Ulva." %}
 
-The abbey dates back to 563 when it was founded by St Colunba and twelve companions.
+While Helen and Lucy continued on to Tr&agrave;igh Bh&agrave;n (White Beach), the rest of us took a tour of the abbey.
+It dates back to 563 when it was founded by St Colunba and twelve companions, starting off as a settlement of primitive lodging and eventually expanding into the impressive buildings and grounds which make up the abbey today.
+As we wandered around the grounds and followed the audio tour, there was a wedding taking place for a couple who had met volunteering as members of the [Iona Community](https://iona.org.uk/).
 
+Eventually, we joined Helen and Lucy and the beach and under the auspices of an Ionan blue sky we took a dip in the 'refreshingly cool' and beautifully clear sea.
+The beach had amazing views back over to Mull and we were able to make out the outline of the [Fossil Tree](https://www.walkhighlands.co.uk/mull/fossil-tree.shtml) in the distance - something we saved to see on another visit.
+After drying off, we tramped back to Baile Mor to catch the penultimate ferry of the day to Ffionport.
 
-Fish and chips on the beach
-## 2025-04-24 Thursday
-Kedjeree 
-## 2025-04-25 Friday
+{% include photo.html src="/assets/img/2025-04-19/iona-traigh-bhan.jpg" alt="Looking across from Tr&agrave;igh Bh&agrave;n to the Ardmeanach peninsula." %}
+
+For the whole week, Faye had raved about the fish and chip shop on the pier.
+Finally able to make her own review ("fresh fish with tasty herb flecked batter, left wanting by the chips", you read it here first), we tucked in to our dinner as the sun began to lower in the sky over Iona.
+As the sun began to cast a softer and softer red light across the bay, Rory, Si&acirc;n, Faye and I stayed on to sample some of the bouldering on the beach in Ffionport .
+Zo&euml;, Meg, Helen and Lucy drove back to the accommodation and were treated on their way back to the sight of a group of otters swimming on the shore of Loch Na Keal.
+Despite their warnings, we had no such luck by the time we made it to the same spot, instead only managing to scare a flight of woodcock into the looming dusk.
+
+## If only there was Beinn Mh&ograve;r
+<span class="weekday">Thursday / 2025-04-24</span>
+
+With the promise of the best weather for the week, Thursday had been designated the day that we would tackle the lonely Munro of Beinn Mh&ograve;r (Ben More).
+There are only a handful of popular routes to the summit of Mull's sole mountain over 3000 feet: a tried and tested 'tourist track' which follows the northerly slopes to the summit, and the more scrambly horseshoe via Beinn Fhada and A'Chioch.
+Lucy and Helen made a later start to follow the more straightforward route to the summit, while the remainder of us engaged the tried and tested tactic of shuttling the cars so we had a one strategically positioned at the start and end of our horseshoe route.
+
+{% include photo.html src="/assets/img/2025-04-19/slopes-of-ben-more.jpg" alt="Happy faces on the steep ascent from Loch na Keal to Beinn Fhada." %}
+
+We were quickly on step slopes as we started to wind our way up the grassy side of Beinn Fhada.
+Despite the blue sky, there was still a stiff and cold breeze which nearly deprived us of Rory's sit mat as we sat down for a quick break.
+After an hour or so, we reached the subsidiary ridge of Beinn Fhada and began to follow the undulating path towards its summit and further into the embrace of Beinn Mh&ograve;r's horseshoe.
+
+On reaching the summit, we treated ourselves to lunch with a view as we looked back along Beinn Fhada to Loch Na Keal.
+To our left, the summits of A'Chioch and Beinn Mh&ograve;r made sure to let us know that there was still plenty of ascent left in our day.
+Perhaps reluctantly, we pulled ourselves to our feet and began the slightly descent down into the saddle below A'Chioch.
+As we regained the meters in elevation that we had just let go of, we followed a slight scramble on the southern face of the hill to its summit.
+We looked across to Beinn Mh&ograve;r and could make out the silhouettes of two figures at the summit cairn.
+Despite grainy photo evidence, we couldn't clearly tell if this was indeed Helen and Lucy - they later confirmed it was.
+
+{% include photo.html src="/assets/img/2025-04-19/scramble-a-chioch.jpg" alt="Scrambling up the eastern face of Beinn Mh&ograve;r to meet Helen and Lucy." credit="Helen Astle"%}
+
+It took an additional descent into a saddle before we could start the Grade 1 scramble to our final summit of the day.
+Despite our concerns from descriptions of the route online (unpleasant and loose), following the crest of the ridge closely gave way to a pleasant scrambling line that quickly gave way to the summit cairn.
+Peering out from the stone walls were Helen and Lucy who had decided to wait for us to meet them.
+After another brief rest, we started our way back down the track to the cars.
+About halfway down, we veered off to the right of the track and found a beautiful pool tucked below a shallow waterfall.
+It called out to us to go for a swim and in the glare of the sun and shelter from the wind, we obliged.
+
+{% include photo.html src="/assets/img/2025-04-19/summit-ben-more.jpg" alt="Reunited on the summit of Beinn Mh&ograve;r."%}
+
+Eventually, we found ourselves on the shores of Loch Na Keal again and divided ourselves into cars to head back to Dervaig.
+With a brief detour via Tobermory to pick up some supplementary items for dinner and desert.
+Helen and Lucy put together a delicious mackerel Kedgeree, and I cooked profiteroles for desert to round off the evening.
+
+## 
+<span class="weekday">Friday / 2025-04-25</span>
+
 Pizza
 
-## 2025-04-26 Saturday
+##
+<span class="weekday">Saturday / 2025-04-26</span>
+
 
 
