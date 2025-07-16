@@ -6,16 +6,6 @@ thumbnail: /assets/img/2023-06-18/thumbnail.JPG
 icon: travel
 excerpt: During the warm weather in June, we cycled from Ardrossan Harbour to Fort William via the Isle of Arran, three of the Inner Hebrides and the Ardnamurchan peninsula.  Along the way were otters, white tailed eagles and more oystercatchers than you could shake a shellfish at.
 ---
-<style>
-  .weekday {
-    background-color: #e0e0e0;
-    border:1pt solid #999; 
-    padding: 0.25em 0.5em;
-    font-size: 0.7em;
-    margin-right: 0.25em;
-  }
-</style>
-
 
 ## The Route
 Originally, the [Hebridean Way](https://cycle.travel/route/hebridean_way) was in our sights but logistics to get to the **Outer Hebrides** proved difficult.
