@@ -9,8 +9,8 @@ thumbnail: /assets/img/2025-04-19/thumbnail.jpg
 ## Ready, set, Kendal
 <span class="weekday">Friday / 2025-04-18</span>
 
-R&S arrive in Kendal to stay overnight
-Z&M staying in Kirby Lonsdale
+I missed out on last year's trip to Harris so felt particularly excited on Friday evening waiting for Rory and Si&acirc;n to arrive in Kendal and head on up to Mull the following day.
+Zo&euml; and Meg were staying nearby in Kirby Lonsdale ready to join us in the morning, so without further ado... 
 
 ## Onward to Oban
 <span class="weekday">Saturday / 2025-04-19</span>
@@ -190,13 +190,17 @@ Eventually, we found ourselves on the shores of Loch Na Keal again and divided o
 With a brief detour via Tobermory to pick up some supplementary items for dinner and desert.
 Helen and Lucy put together a delicious mackerel Kedgeree, and I cooked profiteroles for desert to round off the evening.
 
-## 
+## All quiet on the avian front...
 <span class="weekday">Friday / 2025-04-25</span>
 
-Pizza
+Our luck the previous day had come to an end - as we woke up on Friday morning the weather had come in. After our Ben More day, we had a quiet morning planned. Rory, Faye and I ventured out after lunch for a drive with the intention of seeing the eagle that the others had caught on their way back the previous day. We were in luck for a few other birds on the road between Dervaig and Salen but, perhaps sensibly, they had decided to bunker down and stay out of the worst of the wind and rain. We stopped in Tobermory before continuing back to the cottage, via the hide Loch Torr. Again, all quiet on the avian front. 
 
-##
+{% include photo.html src="/assets/img/2025-04-19/wetland-presentation.jpg" alt="Discovering what type of wetland habitat we are front Si&acirc;n's presentation." %}
+
+Before dinner, we made a final punt to spot an otter along the coast from Croig. It was dreich and didn't take long for us to turn around when the rain had properly set in. Dinner that evening was pizza from [The Piece Box](https://www.instagram.com/the.piece.box/?hl=en0) in Dervaig, a prelude to Zo&euml;'s update about her travels, Rory's presentation on his set of hills in England and Wales and the rest of our (slightly sillier) presentations. 
+
+
+## Southward bound
 <span class="weekday">Saturday / 2025-04-26</span>
 
-
-
+Unfortunately, Saturday was our last day on Mull and we checked out of the cottage in the nick of time. Our ferries back to Oban weren't until after lunchtime so we had some time to kill in Tobermory and along the coast back to Craignure. The ferry soon came and went and we drove back together with a stop in Crianlarich to rearrange car passengers. After not too long, we were back in Kendal having had a splendid week on possibly my favourite of the inner Hebridean islands so far!  
