@@ -12,7 +12,7 @@ thumbnail: /assets/img/2025-04-19/thumbnail.jpg
 I missed out on last year's trip to Scotland (because I was on field course in Norway, boo hoo), so was very excited when the prospect of a trip in 2025 arose.
 Plans were made to spend a week on Mull over Easter and accommodation was swiftly booked in Dervaig, a small village on the northern side of the island.
 April came around quickly and with that, on Friday night, Rory and Si&acirc;n arrived in Kendal to stay overnight with Faye and I, while Zo&euml; and Meg stayed at Zo&euml;'s family home in Kirkby Lonsdale.
-Ahead of us, we had a week of coastal walks, boat trips, good food and are I mention... eagles?
+Ahead of us, we had a week of coastal walks, boat trips, good food and dare I mention... eagles?
 
 ## Onward to Oban
 <span class="weekday">Saturday / 2025-04-19</span>
@@ -199,14 +199,14 @@ Helen and Lucy put together a delicious mackerel Kedgeree, and I cooked profiter
 ## All quiet on the avian front...
 <span class="weekday">Friday / 2025-04-25</span>
 
-Our luck the previous day had come to an end - as we woke up on Friday morning the weather had come in. After our Ben More day, we had a quiet morning planned. Rory, Faye and I ventured out after lunch for a drive with the intention of seeing the eagle that the others had caught on their way back the previous day. We were in luck for a few other birds on the road between Dervaig and Salen but, perhaps sensibly, they had decided to bunker down and stay out of the worst of the wind and rain. We stopped in Tobermory before continuing back to the cottage, via the hide Loch Torr. Again, all quiet on the avian front. 
+Our luck from the previous day had come to an end and as we woke up on Friday the weather had come in. After our Ben More day, we had a quiet morning planned anyway. Rory, Faye and I ventured out after lunch for a drive with the intention of seeing the eagle that the others had caught on their way back the previous day. We were in luck to see a few birds on the road between Dervaig and Salen but, perhaps sensibly, it seemed that the majority had decided to hunker down and stay out of the worst of the wind and rain. We stopped in Tobermory before continuing back to the cottage, via the hide at Loch Torr. Again, all quiet on the avian front... 
 
 {% include photo.html src="/assets/img/2025-04-19/wetland-presentation.jpg" alt="Discovering what type of wetland habitat we are front Si&acirc;n's presentation." %}
 
-Before dinner, we made a final punt to spot an otter along the coast from Croig. It was dreich and didn't take long for us to turn around when the rain had properly set in. Dinner that evening was pizza from [The Piece Box](https://www.instagram.com/the.piece.box/?hl=en0) in Dervaig, a prelude to Zo&euml;'s update about her travels, Rory's presentation on his set of hills in England and Wales and the rest of our (slightly sillier) presentations. 
+Before dinner, we made one final punt to spot an otter along the coast from Croig. It was dreich and didn't take long for us to turn around when the rain had properly set in. Dinner that evening was pizza from [The Piece Box](https://www.instagram.com/the.piece.box/?hl=en0) in Dervaig, a prelude to Zo&euml;'s update about her travels, Rory's presentation on his **definitive** set of hills in England and Wales and the rest of our (slightly sillier) presentations. 
 
 
 ## Southward bound
 <span class="weekday">Saturday / 2025-04-26</span>
 
-Unfortunately, Saturday was our last day on Mull and we checked out of the cottage in the nick of time. Our ferries back to Oban weren't until after lunchtime so we had some time to kill in Tobermory and along the coast back to Craignure. The ferry soon came and went and we drove back together with a stop in Crianlarich to rearrange car passengers. After not too long, we were back in Kendal having had a splendid week on possibly my favourite of the inner Hebridean islands so far!  
+Unfortunately, Saturday was our last day on Mull and that morning we checked out of the cottage in the nick of time. Our ferries back to Oban weren't until after lunchtime so we had some time to kill in Tobermory and along the coast back to Craignure. The ferry journey soon came and went and we headed back south, interrupted with a stop in Crianlarich to rearrange car passengers. After not too long, Faye, Zo&euml; and I were back in Kendal having had a splendid week on possibly my favourite of the inner Hebridean islands so far, and we even saw some eagles!
