@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: jonohawkins
-email: uceeawk@ucl.ac.uk
+email: hawkinsj22@cardiff.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Postgraduate student at University College London in Ice-Penetrating Radar.  Glaciers, electronics and vertical things.
+  Electronic engineer and glaciologist specialising in ice-penetrating radar and wireless instrumentation to study ice dynamics and glacier hydrology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.jonohawkins.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jonohawkins
@@ -61,6 +61,9 @@ kramdown:
 
 plugins:
   - jekyll-paginate
+
+exclude:
+  - src
 
 # Build settings
 #theme: minima
