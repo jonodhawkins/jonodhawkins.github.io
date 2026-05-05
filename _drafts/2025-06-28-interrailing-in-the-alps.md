@@ -3,6 +3,7 @@ layout: post
 title: Interrailing in the Alps
 icon: travel
 excerpt: Jono and Faye use their interrail passes to travel through Switzerland and Italy for some high-mountain via ferrata and coastal touristing.
+thumbnail: /assets/img/2025-06-28/thumbnail.jpg
 ---
 
 ## 2025-06-28 Saturday
@@ -20,6 +21,15 @@ Journey:
 Arriving in Brig late into the evening to a lively square - surprising!
 
 ## 2025-06-29 Sunday
+<div class="uk-grid uk-child-width-1-2 uk-grid-small" uk-grid>
+    <div>
+        <img uk-img src="/assets/img/2025-06-28/01-aletsch-runners.JPG" alt="" />
+    </div>
+    <div>
+        <img uk-img src="/assets/img/2025-06-28/02-aletsch-faye.JPG" alt="" />
+    </div>
+</div>
+
 Slow morning to recover from the previous day's sitting around.
 
 Headed to the main SBB station at Brig to deposit our bags in the storage lockers.
@@ -37,6 +47,18 @@ Fortunately the attendant had already found the camera and sent it down quickly.
 Took the bus back to Brig, and then boarded the 511 bus to Saas-Fee and checked into our apartment.
 
 ## 2025-06-30 Monday
+<div class="uk-grid uk-child-width-1-3 uk-grid-small" uk-grid>
+    <div>
+        <img uk-img src="/assets/img/2025-06-28/03-goat-snowpack.JPG" alt="" />
+    </div>
+    <div>
+        <img uk-img src="/assets/img/2025-06-28/04-allainhorn.JPG" alt="" />
+    </div>
+    <div>
+        <img uk-img src="/assets/img/2025-06-28/05-cabin.JPG" alt="" />
+    </div>
+</div>
+
 The weather forecast for the week wasn't inspiring, with thunderstorms predicted almost every day.
 
 With the arrival of our [SaastalCard]() in our inbox, we set out on a walk from the Hannig lift and along the walls of the valley towards the Gletschersee.
@@ -55,6 +77,11 @@ However, quickly we realised instead this was a huge rockfall on the north-west 
 Early night, ready to tackle the Jeginhorn via ferrata the following day.
 
 ## 2025-07-01 Tuesday
+![](/assets/img/2025-06-28/06-marmot.JPG)
+![](/assets/img/2025-06-28/07-jegihorn-01.JPG)
+![](/assets/img/2025-06-28/08-jegihorn-02.JPG)
+![](/assets/img/2025-06-28/09-jegihorn-summit.JPG)
+
 The Jeginhorn via ferrata is billed online as the "highest via in the Western Alps".
 
 We left our apartment to catch the `7:30` bus to Saas-Grund. Bought a baguette from a bakery and then headed up the Honsaas cable car to start the walk up to beginning of the route.
@@ -75,20 +102,43 @@ Faye twisted her ankle on the path back to Kreuzboden.  Hopefully dipping our fe
 Took the upper cablecar to see the view from Hohsass. Admired the glacier and eyed up potential routes to revisit in the future.
 
 ## 2025-07-02 Wednesday
-To Britannia Hutte and via ferrata
+![](/assets/img/2025-06-28/10-britanniahutte.JPG)
+![](/assets/img/2025-06-28/10-vf-britannia.JPG)
+
+We woke up to a slightly overcast day, but with a promising enough weather forecast in the morning to allow us to head over to the Felskinn lift and attempt the "Klettersteig Britannia", pereched on the north eastern shoulder of the Allainhorn. 
+
+To Britannia Hutte and via ferrata.
+
+Nearly drop phone while on the VF
+
+"Short and sweet" via ferrata.
 
 ## 2025-07-03 Thursday
+![](/assets/img/2025-06-28/11-feegletscher.JPG)
+![](/assets/img/2025-06-28/12-basal-ice.JPG)
+![](/assets/img/2025-06-28/13-ice-cave.jpg)
+
 Late morning, walk through town and up lift to proglacial lakes and ice cave
 
 ## 2025-07-04 Friday
+![](/assets/img/2025-06-28/14-zurich.JPG)
+![](/assets/img/2025-06-28/15-border.jpg)
+
 Travel to Bolzano via Zurich (pre football, Swiss famous women trail) and Inssbruck.
 
 ## 2025-07-05 Saturday
+![](/assets/img/2025-06-28/16-otzi-ice-man.jpg)
+
 Morning in Bolzano visiting the Sudtirol Museum of archeology (Otzi the iceman) and a local castle.
 
 Bus to Vigo di Fassa and check in to hotel. 
 
 ## 2025-07-06 Sunday
+![](/assets/img/2025-06-28/17-vf-magnifici-01.jpg)
+![](/assets/img/2025-06-28/18-vf-magnifici-02.jpg)
+![](/assets/img/2025-06-28/19-vf-magnifici-03.jpg)
+![](/assets/img/2025-06-28/20-rosengarten-01.JPG)
+
 Magnifici 4 via ferrata and walk down from Buffare. Strange shuttle service who didn't drop us off where asked - despite checking multiple times.
 
 Good via ferrata, very fast german man. 
@@ -98,11 +148,19 @@ Small spot of rain on the way down before downpour as we got the bus back from P
 Delicious pizza and tiramisu for dinner in Pizzeria La Grotta.
 
 ## 2025-07-07 Monday
+![](/assets/img/2025-06-28/21-rosengarten-02.JPG)
+![](/assets/img/2025-06-28/22-rosengarten-03.JPG)
+![](/assets/img/2025-06-28/23-rifugio-vajolet.jpg)
+![](/assets/img/2025-06-28/24-pooped.jpg)
+
 Woke up to overnight rain, changed plan from Majare-Vael ferrata to a walk along Val Catinaccio and up to the Vajolet towers.
 
 Beautiful walk along upper tier with no-one around.
 
 ## 2025-07-08 Tuesday
+![](/assets/img/2025-06-28/25-campanile-di-latemar.JPG)
+![](/assets/img/2025-06-28/26-vf-masare.jpg)
+
 Using yesterday's experience of rock drying, we took the bus to Carezza and the Paolina chairlift to tackle the Majare-Vael ferrata
 
 Caught off-guard by overnight snow
@@ -112,4 +170,15 @@ Enjoyable but busy via ferrata
 Weather came in earlier than expected and we were back at the cable car in time for the rain to come in full force.
 
 ## 2025-07-09 Wednesday
+![](/assets/img/2025-06-28/27-riomagiorre-beach.jpg)
+![](/assets/img/2025-06-28/28-riomagiorre.jpg)
+
 Travel from Vigo to Bolzano, then on to Riomaggiore
+
+## 2025-07-10 Thursday
+![](/assets/img/2025-06-28/29-manarola.JPG)
+
+Day in Riomaggiore
+
+## 2025-07-11 Friday
+Travel Riomaggiore to London
