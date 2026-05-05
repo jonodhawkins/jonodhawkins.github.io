@@ -1,3 +1,33 @@
+- filename: /assets/img/antarctic_cards_2026/adelie.png
+  smallFilename: /assets/img/antarctic_cards_2026/adelie-small.png
+  title: Adelie Penguin
+  alt-text: A curious Adelie penguin on Rothera Point looking the other way.
+  tags: photo,bird,antarctica
+- filename: /assets/img/antarctic_cards_2026/chinstrap.png
+  smallFilename: /assets/img/antarctic_cards_2026/chinstrap-small.png
+  title: Chinstrap Penguin
+  alt-text: A feisty Chinstrap penguin coming to see what the fuss is about on Rothera's runway.
+  tags: photo,bird,antarctica
+- filename: /assets/img/antarctic_cards_2026/iceberg_ryder_bay.png
+  smallFilename: /assets/img/antarctic_cards_2026/iceberg_ryder_bay-small.png
+  title: Iceberg, Ryder Bay
+  alt-text: A large tabular iceberg in Ryder Bay.
+  tags: photo,antarctica,ice
+- filename: /assets/img/antarctic_cards_2026/mt_gaudry.png
+  smallFilename: /assets/img/antarctic_cards_2026/mt_gaudry-small.png
+  title: Mt Gaudry, Antarctic Peninsula
+  alt-text: Looking across Ryder Bay to the imposing Mt Gaudry 
+  tags: photo,antarctica,mountain,ice
+- filename: /assets/img/antarctic_cards_2026/ridge_mt_veynberg.png
+  smallFilename: /assets/img/antarctic_cards_2026/ridge_mt_veynberg-small.png
+  title: Ridge below Mt. Veynberg
+  alt-text: A curious spine-like ridge below Mt Veynberg, Antarctic Peninsula.
+  tags: photo,antarctica,mountain,ice
+- filename: /assets/img/antarctic_cards_2026/rothera_station-small.png
+  smallFilename: /assets/img/antarctic_cards_2026/rothera_station-small.png
+  title: Rothera from above
+  alt-text: Looking down at Rothera station on approach in the Dash.
+  tags: photo,antarctica
 - filename: /assets/img/mandarin.JPG
   smallFilename: /assets/img/mandarin-small.JPG
   title: Mandarin
