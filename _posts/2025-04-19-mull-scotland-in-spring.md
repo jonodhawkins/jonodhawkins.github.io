@@ -161,7 +161,7 @@ As the sun began to cast a softer and softer red light across the bay, Rory, Si&
 Zo&euml;, Meg, Helen and Lucy drove back to the accommodation and were treated on their way back to the sight of a family of otters swimming on the shore of Loch Na Keal.
 Despite their advice, we had no such luck by the time we made it to the same spot, instead only managing to scare off a flight of woodcock into the looming dusk.
 
-## If only there was Beinn Mh&ograve;r
+## If only there had Beinn Mh&ograve;r
 <span class="weekday">Thursday / 2025-04-24</span>
 
 With the best weather of the week forecast, Thursday had been designated the day that we would tackle the lonely Munro of Beinn Mh&ograve;r (Ben More).
