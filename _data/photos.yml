@@ -1,33 +1,63 @@
+- filename: /assets/img/bearded_tit_leighton.JPG
+  smallFilename: /assets/img/bearded_tit_leighton-small.JPG
+  title: Bearded tit
+  alt-text: An elusive bearded tit at Leighton Moss in January, 2026.
+  tags: photo,bird
 - filename: /assets/img/antarctic_cards_2026/adelie.png
   smallFilename: /assets/img/antarctic_cards_2026/adelie-small.png
   title: Adelie Penguin
   alt-text: A curious Adelie penguin on Rothera Point looking the other way.
-  tags: photo,bird,antarctica
+  tags: painting,bird,antarctica
 - filename: /assets/img/antarctic_cards_2026/chinstrap.png
   smallFilename: /assets/img/antarctic_cards_2026/chinstrap-small.png
   title: Chinstrap Penguin
   alt-text: A feisty Chinstrap penguin coming to see what the fuss is about on Rothera's runway.
-  tags: photo,bird,antarctica
+  tags: painting,bird,antarctica
 - filename: /assets/img/antarctic_cards_2026/iceberg_ryder_bay.png
   smallFilename: /assets/img/antarctic_cards_2026/iceberg_ryder_bay-small.png
   title: Iceberg, Ryder Bay
   alt-text: A large tabular iceberg in Ryder Bay.
-  tags: photo,antarctica,ice
+  tags: painting,antarctica,ice
 - filename: /assets/img/antarctic_cards_2026/mt_gaudry.png
   smallFilename: /assets/img/antarctic_cards_2026/mt_gaudry-small.png
   title: Mt Gaudry, Antarctic Peninsula
   alt-text: Looking across Ryder Bay to the imposing Mt Gaudry 
-  tags: photo,antarctica,mountain,ice
+  tags: painting,antarctica,mountain,ice
+- filename: /assets/img/on-the-line.JPG
+  filenameSmall: /assets/img/on-the-line-small.JPG
+  title: On the line, Reptile Ridge
+  alt-text: Si and Tom follow the snow crest at the start of the traverse along Reptile Ridge.
+  tags: photo,antarctica,mountain
+- filename: /assets/img/mt-gaudry.JPG
+  smallFilename: /assets/img/mt-gaudry-small.JPG
+  title: Mt Gaudry, Antarctic Peninsula
+  alt-text: Mt Gaudry as seen from a BAS Twin Otter, on the approach back to Rothera.
+  tags: photo,antarctica
 - filename: /assets/img/antarctic_cards_2026/ridge_mt_veynberg.png
   smallFilename: /assets/img/antarctic_cards_2026/ridge_mt_veynberg-small.png
   title: Ridge below Mt. Veynberg
   alt-text: A curious spine-like ridge below Mt Veynberg, Antarctic Peninsula.
-  tags: photo,antarctica,mountain,ice
+  tags: painting,antarctica,mountain,ice
 - filename: /assets/img/antarctic_cards_2026/rothera_station-small.png
   smallFilename: /assets/img/antarctic_cards_2026/rothera_station-small.png
   title: Rothera from above
-  alt-text: Looking down at Rothera station on approach in the Dash.
+  alt-text: Looking down at Rothera station on approach in the Twin Otter.
+  tags: painting,antarctica
+- filename: /assets/img/rothera-station.JPG
+  smallFilename: /assets/img/rothera-station-small.JPG
+  title: Rothera from above
+  alt-text: Rothera station from the window of a BAS Twin Otter.
   tags: photo,antarctica
+- filename: /assets/img/high-rigg-binos.jpg
+  smallFilename: /assets/img/high-rigg-binos-small.jpg
+  title: Tunnel vision, High Rigg
+  alt-text: Faye looking back up towards High Rigg through her binoculars.
+  tags: photo,lakes
+- filename: /assets/img/wharton-trees.jpg
+  smallFilename: /assets/img/wharton-trees-small.jpg
+  title: Trees at Warton Crag
+  alt-text: A moody autumnal tunnel of trees above Warton Crag, Lancashire.
+  tags: photo,lakes
 - filename: /assets/img/mandarin.JPG
   smallFilename: /assets/img/mandarin-small.JPG
   title: Mandarin
